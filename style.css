@@ -15,6 +15,7 @@ h1{
     color: magenta;
     box-shadow: 0 4px 10px rgba(red, green, blue);
     border-radius: 15px;
+    width: 100vh;
 
 }
 div{
@@ -29,7 +30,7 @@ a{
     background: transparent;
     color: coral;
     text-decoration: underline;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
     border-radius: 15px;
     box-shadow: 0 5px 10 px rgba(red, green, blue, alpha);
@@ -43,4 +44,5 @@ a:hover{
     width: 100%;
     height: auto;
 }
+
 
