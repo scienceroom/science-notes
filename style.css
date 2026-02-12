@@ -15,7 +15,7 @@ h1{
     color: magenta;
     box-shadow: 0 4px 10px rgba(red, green, blue);
     border-radius: 15px;
-    width: 100vh;
+    
 
 }
 div{
@@ -44,5 +44,6 @@ a:hover{
     width: 100%;
     height: auto;
 }
+
 
 
