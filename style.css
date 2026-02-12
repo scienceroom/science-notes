@@ -27,7 +27,7 @@ a{
     background: transparent;
     color: coral;
     text-decoration: underline;
-    font-size: large;
+    font-size: 18px;
     font-weight: bold;
     border-radius: 15px;
     box-shadow: 0 5px 10 px rgba(red, green, blue, alpha);
@@ -40,10 +40,4 @@ a:hover{
 .subject-image{
     width: 100%;
     height: auto;
-}
-html,body{
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    
 }
