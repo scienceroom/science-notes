@@ -1,0 +1,43 @@
+body{
+    margin: 10;
+    padding: 20;
+    font-family: sans-serif;
+    background: linear-gradient(180deg,rgb(3, 3, 75),rgb(109, 5, 69),black);
+    text-align: center;
+}
+/*header*/
+h1{
+    background: purple;
+    padding: 20px;
+    margin: 0%;
+    color: magenta;
+    box-shadow: 0 4px 10px rgba(red, green, blue);
+    border-radius: 15px;
+
+}
+div{
+    padding: 20;
+    margin: 10px;
+   
+
+}
+a{
+    display: block;
+    padding: 20px;
+    background: transparent;
+    color: coral;
+    text-decoration: underline;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 15px;
+    box-shadow: 0 5px 10 px rgba(red, green, blue, alpha);
+}
+a:hover{
+    background: pink;
+    color: rgb(65, 1, 73);
+    
+}
+.subject-image{
+    width: 100%;
+    height: auto;
+}
