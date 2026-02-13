@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://scienceroom.github.io/sitemap.xml
+
+Sitemap: https://scienceroom.github.io/science-notes/sitemap.xml
